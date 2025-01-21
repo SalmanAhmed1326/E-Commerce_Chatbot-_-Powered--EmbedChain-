@@ -1,0 +1,9 @@
+embedchain
+spacy
+scikit-learn
+fuzzywuzzy
+google-api-python-client
+numpy
+pandas
+regex
+PyYAML
