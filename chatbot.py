@@ -10,7 +10,7 @@ from streamlit_chat import message  # For chat-style UI
 absl.logging.set_verbosity(absl.logging.INFO)
 
 # Set Google API key securely
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCjxO8VHUVLtKLSgvzDfIh4xmAcDCNa7ZI"
+os.environ["GOOGLE_API_KEY"] = "Enter_your_APi_Key"
 
 # Create the EmbedChain app
 app = App.from_config(config_path="config.yaml")
