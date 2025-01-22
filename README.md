@@ -98,7 +98,7 @@ This project showcases a multi-functional chatbot designed for e-commerce applic
 
 5. Run the chatbot script:
    ```bash
-   python chatbot.py
+   streamlit run chatbot.py
    ```
 
 ---
